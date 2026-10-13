@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.~lock.*
+rota.html
+guia_implementacao.md
+IA-Trabalho-2026-Ribeirao.pdf
